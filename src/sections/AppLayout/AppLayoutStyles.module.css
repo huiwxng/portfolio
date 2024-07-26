@@ -1,0 +1,17 @@
+.colorMode {
+  position: fixed;
+  top: 30px;
+  right: 30px;
+  z-index: 1000;
+  width: 25px;
+
+  border-style: solid;
+  border-color: white;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.colorMode:hover {
+    cursor: pointer;
+    background-color: var(--hover-color);
+}
