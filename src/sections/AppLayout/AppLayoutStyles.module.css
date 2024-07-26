@@ -1,7 +1,7 @@
 .colorMode {
   position: fixed;
-  top: 30px;
-  right: 30px;
+  top: 20px;
+  right: 20px;
   z-index: 1000;
   width: 25px;
 
