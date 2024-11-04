@@ -26,7 +26,7 @@ function Hero() {
         <h1>
           Hui Wang
         </h1>
-        <h2>Aspiring SWE</h2>
+        <h2>Software Engineer</h2>
         <span>
           <a href="https://github.com/huiwxng" target="_blank">
             <img src={githubIcon} alt="Github Icon" />
@@ -37,9 +37,7 @@ function Hero() {
         </span>
         <p className={styles.description}>
           I am studying Computer Science at{" "}
-          <a href="https://www.northeastern.edu/">Northeastern University</a>. I
-          am currently a Software Engineering Fellow at{" "}
-          <a href="https://headstarter.co/">Headstarter AI</a>.
+          <a href="https://www.northeastern.edu/">Northeastern University</a>
         </p>
         <a href={CV} target="_blank">
           <button className="hover">Resume</button>
